@@ -35,7 +35,11 @@ Setting up NAT network in VirtualBox: <br/>
 <br />
 <br />
 Setting up Windows Server static IP: <br/>
-<img src="https://imgur.com/GCJfVxq" height="80%" width="80%" alt="NAT network setup"/>
+<img src="https://imgur.com/2loAhJA.png" height="80%" width="80%" alt="NAT network setup"/>
+<br />
+<br />
+Setting up Windows 10 static IP: <br/>
+<img src="https://imgur.com/aOs6apR.png" height="80%" width="80%" alt="NAT network setup"/>
 <br />
 <br />
 Promoting Windows Server to Domain Controller: <br/>
