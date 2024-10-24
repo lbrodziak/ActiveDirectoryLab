@@ -91,5 +91,9 @@ Creating users using PS script(users are created): <br/>
 <br />
 <br />
 Adding Windows 10 client to domain: <br/>
-<img src="https://imgur.com/AZsM2EA.png" height="80%" width="80%" alt="NAT network setup"/>
+<img src="https://imgur.com/NBA35yf.png" height="80%" width="80%" alt="NAT network setup"/>
+<br />
+<br />
+Sucessfully added Windows 10 client to domain(at this point client will restart): <br/>
+<img src="https://imgur.com/iXLMT0X.png" height="80%" width="80%" alt="NAT network setup"/>
 
