@@ -96,4 +96,8 @@ Adding Windows 10 client to domain: <br/>
 <br />
 Sucessfully added Windows 10 client to domain(at this point client will restart): <br/>
 <img src="https://imgur.com/iXLMT0X.png" height="80%" width="80%" alt="NAT network setup"/>
+<br />
+<br />
+Login into domain using previously created user: <br/>
+<img src="https://imgur.com/sGQ5X8j.png" height="80%" width="80%" alt="NAT network setup"/>
 
