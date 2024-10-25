@@ -1,7 +1,7 @@
 <h1>Active Diretory Lab</h1>
 
 <h2>Description</h2>
-The goal of this project was to create a virtual lab environment with Windows Server 2022 and Windows 10 using Oracle VirtualBox with basic Active Directory setup. This lab will serve as foundation for future projects in cybersecurity. As part of this lab there is also a simple Powershell script which automatically creates users based on the list provided in text file. The AD setup intentionally does not contain any advanced AD setup like security policies as they will be topics of future projects.
+The goal of this project was to create a virtual lab environment with Windows Server 2022 and Windows 10 using Oracle VirtualBox with basic Active Directory setup. This lab will serve as foundation for future projects in cybersecurity. Part of this lab is also a simple Powershell script which automatically creates users based on the list provided in text file. The AD setup intentionally does not contain any advanced AD setup like security policies as they will be topics of future projects.
 <br />
 
 
